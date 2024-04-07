@@ -1,0 +1,3 @@
+C:/Users/steve/OneDrive/Desktop/142 Assignment/cmake-build-debug/CMakeFiles/142_Assignment.dir
+C:/Users/steve/OneDrive/Desktop/142 Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/steve/OneDrive/Desktop/142 Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
